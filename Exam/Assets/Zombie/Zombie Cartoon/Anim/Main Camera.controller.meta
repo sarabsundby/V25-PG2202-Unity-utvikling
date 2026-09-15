@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4249df731a39f7540a47aee875a3455e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 292251
+  packageName: Zombie Cartoon
+  packageVersion: 1.0
+  assetPath: Assets/ArtStore3D/Zombie Cartoon/Anim/Main Camera.controller
+  uploadId: 698257
